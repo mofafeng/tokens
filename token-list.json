@@ -1,0 +1,25 @@
+{
+  "name": "Visual Xperience Coin",
+  "logoURI": "https://raw.githubusercontent.com/mofafeng/tokens/master/logo.png",
+  "keywords": [
+      "vxc",
+      "VXC",
+      "yield"
+    ],
+    "timestamp": "2021-06-27T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x000000000000000000000000000000",
+      "name": "VXC",
+      "symbol": "VXC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mofafeng/tokens/master/logo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
